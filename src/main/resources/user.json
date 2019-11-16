@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "id": {
+      "type": "long"
+    },
+    "action": {
+      "type": "text"
+    },
+    "mac": {
+      "type": "text"
+    },
+    "sn": {
+      "type": "text"
+    }
+  }
+}
